@@ -4,4 +4,4 @@
 
 # cd Ua-Generator
 
-# python Uacreat.py
+# python uacreat.py
