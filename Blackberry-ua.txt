@@ -1,4 +1,4 @@
-"Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.2.2876 Mobile Safari/537.35+",
+["Mozilla/5.0 (BB10; Touch) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.2.2876 Mobile Safari/537.35+",
 "SimplePie/Blackberry-DB (Feed Parser; http://simplepie.org; Allow like Gecko) Build/20080102221556",
 "Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.2.2813 Mobile Safari/537.35+",
 "Mozilla/5.0 (BB10; Kbd) AppleWebKit/537.35+ (KHTML, like Gecko) Version/10.3.2.2639 Mobile Safari/537.35+",
@@ -227,4 +227,4 @@
 "Mozilla/5.0 (PlayBook; U; RIM Tablet OS 2.1.0; en-US) AppleWebKit/536.2+ (KHTML like Gecko) Version/16.4 Safari/536.2+",
 "Opera/9.80 (BlackBerry; Opera Mini/7.1.33551/37.6652; U; en) Presto/2.12.423 Version/68.0.3618.104",
 "Opera/9.80 (BlackBerry; Opera Mini/7.1.33551/37.6652; U; en) Presto/2.12.423",
-"Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/16.4 Mobile Safari/537.10+",
+"Mozilla/5.0 (BB10; Touch) AppleWebKit/537.10+ (KHTML, like Gecko) Version/16.4 Mobile Safari/537.10+",]
